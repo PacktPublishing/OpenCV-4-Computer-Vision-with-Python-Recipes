@@ -30,8 +30,8 @@ Spyder / Sublime<br/>
 
 
 ## Related Products
-* [Python 3.x for Computer Vision [Video]](https://india.packtpub.com/in/application-development/python-3x-computer-vision-video-0)
+* [Black Hat Python for Pentesters and Hackers [Video]](https://www.packtpub.com/application-development/black-hat-python-pentesters-and-hackers-video)
 
-* [Learn Computer Vision with Python and OpenCV [Video]](https://india.packtpub.com/in/application-development/learn-computer-vision-python-and-opencv-video)
+* [Hands-On Reactive Programming with Python [Video]](https://www.packtpub.com/application-development/hands-reactive-programming-python-video)
 
-* [Master Computer Vision OpenCV3 in Python and Machine Learning [Video]](https://india.packtpub.com/in/application-development/master-computer-vision-opencv3-python-and-machine-learning-video)
+* [Python Deep Learning for Beginners [Video]](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-beginners-video)
